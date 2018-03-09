@@ -19,7 +19,7 @@ class Channel:
     channel_query_path = "/CH4"
 
     UA = "Line/7.18.4 iPad4,1 9.0.2"
-    LA = "DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0"
+    LA = "CHROMEOS\t8.1.1\tiyo-PC\t8.1.1"
     
 
     authToken = None
