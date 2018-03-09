@@ -43,7 +43,7 @@ class LINE:
     self.authToken = self.Talk.authToken
     self.cert = self.Talk.cert
     self._headers = {
-              'X-Line-Application': 'DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0',
+              'X-Line-Application': 'CHROMEOS\t8.1.1\tiyo-PC\t8.1.1',
               'X-Line-Access': self.authToken,
               'User-Agent': 'Line/7.18.4 iPad4,1 9.0.2'
                }
