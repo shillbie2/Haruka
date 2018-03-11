@@ -12,7 +12,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 iyo = LINETCR.LINE()
 #iyo.login(qr=True)
-iyo.login(token='EqqDPVsWuKq9jCVB6YQb.w6+8YbOkbOMyiHAGbC+hcW.0rWdF8FCQT+JtoVG9skbzPYkJI36EQlwigcjQWiBD6w=')
+iyo.login(token='EqSvdKoFaDaY7c761SYb.w6+8YbOkbOMyiHAGbC+hcW.hdEKAcka0vVlK47k88IlrAV6ESN+mVlCt0qxj0rSbrk=')
 iyo.loginResult()
 print "iyo-Login Success\n\n=====[Sukses Login]====="
 
